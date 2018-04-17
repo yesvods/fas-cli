@@ -3,8 +3,10 @@
 ## 特性
 
 * 支持七牛 CDN 空间上传
-* 七牛空间与项目映射
 * 快速支持 vue 项目静态化
+
+
+<img src="http://ockcz5ezf.bkt.clouddn.com/fas.svg" width="500">
 
 ## 安装
 
