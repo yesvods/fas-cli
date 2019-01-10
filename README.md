@@ -6,7 +6,7 @@
 * 快速支持 vue 项目静态化
 
 
-<img src="http://ockcz5ezf.bkt.clouddn.com/fas.svg" width="500">
+<img src="http://qnimagestore.scoii.com/fas.svg" width="500">
 
 ## 安装
 
